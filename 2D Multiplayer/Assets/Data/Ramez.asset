@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03dd3b21974df6c4eaf87cbe10a9b14a, type: 3}
+  m_Name: Ramez
+  m_EditorClassIdentifier: 
+  characterSprite: {fileID: 21300000, guid: f13b23bbd8217fe468ba61d7a3f89ac8, type: 3}
+  characterShipSprite: {fileID: 21300000, guid: a5002adb62998314fa7af36dd40e0c3b, type: 3}
+  iconSprite: {fileID: 21300000, guid: 143213081105297be85972676d33f655, type: 3}
+  characterName: Ramez
+  spaceshipPrefab: {fileID: 4804428979600475153, guid: 1a0fadd33f5f94e40828968017c9d4e0, type: 3}
+  spaceshipScorePrefab: {fileID: 1324599998590221610, guid: 139a322bcca76cd4ba628dd848872857, type: 3}
+  color: {r: 0.3962264, g: 0.3962264, b: 0.3962264, a: 1}
+  darkColor: {r: 0.18867922, g: 0.18867922, b: 0.18867922, a: 1}
+  clientId: 0
+  playerId: -1
+  isSelected: 0
+  enemiesDestroyed: 0
+  powerUpsUsed: 0

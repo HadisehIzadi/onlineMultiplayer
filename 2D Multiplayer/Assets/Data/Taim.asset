@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03dd3b21974df6c4eaf87cbe10a9b14a, type: 3}
+  m_Name: Taim
+  m_EditorClassIdentifier: 
+  characterSprite: {fileID: 21300000, guid: 6d43f31eaf5c7314b9c40e1f82c15731, type: 3}
+  characterShipSprite: {fileID: 21300000, guid: 626dab7c077f7894694d0fe5c0c83eee, type: 3}
+  iconSprite: {fileID: 21300000, guid: 6f53584c00de55445a0bf6067e6fc6bd, type: 3}
+  characterName: Taim
+  spaceshipPrefab: {fileID: 652892210902043009, guid: e77150d20bf364640a96edab069f7ff6, type: 3}
+  spaceshipScorePrefab: {fileID: 1771342566438911877, guid: 50b2b577b6fe6724486437924a0e5c92, type: 3}
+  color: {r: 0.9960785, g: 0.41176474, b: 0.32156864, a: 1}
+  darkColor: {r: 0.45098042, g: 0.8431373, b: 0.9058824, a: 1}
+  clientId: 0
+  playerId: -1
+  isSelected: 0
+  enemiesDestroyed: 0
+  powerUpsUsed: 0
